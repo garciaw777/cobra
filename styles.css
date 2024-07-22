@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #87CEEB; /* Azul claro para o fundo */
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #ADD8E6; /* Azul claro para o fundo do canvas */
+}
